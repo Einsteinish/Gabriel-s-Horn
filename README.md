@@ -225,6 +225,7 @@ Where:
 
 3. **Integration**: To find the total surface area, we sum the areas of all such infinitesimal frustums by integrating over the interval $[a, b]$.
 
+---
 
 [Watch the Youtube video here](https://youtu.be/C0ApGdoJu1w)
 
