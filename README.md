@@ -8,10 +8,6 @@ around the x-axis, forming a three-dimensional shape that extends infinitely in 
 
 ![Gabriel's Horn](images/GabrielHorn.png)
 
-[Watch the Youtube video here](https://youtu.be/C0ApGdoJu1w)
-
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/C0ApGdoJu1w/0.jpg)](https://www.youtube.com/watch?v=C0ApGdoJu1w)
-
 Gabriel’s Horn has two surprising properties:
 
 - **Finite Volume** – The volume of the horn is finite, meaning you could theoretically "fill" it with a limited amount of paint.
@@ -229,3 +225,7 @@ Where:
 
 3. **Integration**: To find the total surface area, we sum the areas of all such infinitesimal frustums by integrating over the interval $[a, b]$.
 
+
+[Watch the Youtube video here](https://youtu.be/C0ApGdoJu1w)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/C0ApGdoJu1w/0.jpg)](https://www.youtube.com/watch?v=C0ApGdoJu1w)
