@@ -227,6 +227,8 @@ Where:
 
 ---
 
-[Watch the Youtube video here](https://youtu.be/7_G-4JVHM_0)
+[Watch the Youtube video here](https://youtu.be/C0ApGdoJu1w)
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/7_G-4JVHM_0/0.jpg)](https://www.youtube.com/watch?v=7_G-4JVHM_0)  https://www.youtube.com/watch?v=7_G-4JVHM_0
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/C0ApGdoJu1w/0.jpg)](https://www.youtube.com/watch?v=C0ApGdoJu1w)
+
+
